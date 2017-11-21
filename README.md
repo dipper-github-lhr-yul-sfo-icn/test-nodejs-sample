@@ -1,1 +1,3 @@
 # test-nodejs-Sample
+
+![Build Status](https://codebuild.us-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiQ3MrU1g4OHF4Y3MzTzRFMDk1ZXFiRHpZWWJQekh2cndGY1VQQStuR3NVajlEQzQ1RGpic253ckxRc2ppcUc5NVlYTlFBdWhjdWt6S1ViRjl1SWp1ZXl3PSIsIml2UGFyYW1ldGVyU3BlYyI6Imw5SzNSYlpySm5hZDduSWMiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
